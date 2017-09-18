@@ -1,0 +1,56 @@
+{
+  "errmsg": "", 
+  "ip": "-", 
+  "links_in": [
+    {
+      "source": "12.34.56.234", 
+      "target": "TCP 443", 
+      "value": 5
+    }, 
+    {
+      "source": "12.34.56.234", 
+      "target": "TCP 80", 
+      "value": 12
+    }, 
+    {
+      "source": "34.43.23.98", 
+      "target": "TCP 23942", 
+      "value": 14
+    }
+  ], 
+  "links_out": [
+    {
+      "source": "TCP 443", 
+      "target": "12.34.56.234", 
+      "value": 8
+    }, 
+    {
+      "source": "TCP 80", 
+      "target": "12.34.56.234", 
+      "value": 12
+    }, 
+    {
+      "source": "TCP 23942", 
+      "target": "34.43.23.98", 
+      "value": 12
+    }
+  ], 
+  "nodes": [
+    {
+      "name": "12.34.56.234"
+    }, 
+    {
+      "name": "TCP 443"
+    }, 
+    {
+      "name": "TCP 80"
+    }, 
+    {
+      "name": "34.43.23.98"
+    }, 
+    {
+      "name": "TCP 23942"
+    }
+  ], 
+  "success": true
+}

@@ -1,0 +1,12 @@
+{
+  "attacked": 2762, 
+  "clearTotal": 259480, 
+  "errmsg": "", 
+  "netDDos": 135199, 
+  "protect": 5199, 
+  "reflectDDos": 5199, 
+  "serviceDDos": 84002, 
+  "slowDDos": 9199, 
+  "success": true, 
+  "totalAttack": 5200126
+}
